@@ -1,7 +1,7 @@
 #  👋 Hi, I’m @Marc4k :
 🏠 I'm from Austria <br>
 🌱 I’m currently learning Flutter <br>
-🔭 I'm currently working on a Chat App
+🔭 I'm currently working on ParentingBuddy
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-jenni-48a2a921a)
